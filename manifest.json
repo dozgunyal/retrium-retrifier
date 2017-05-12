@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Retrium Reveal",
+  "description": "Reveals text before retro",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
